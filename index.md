@@ -18,287 +18,111 @@ meetup-group:
 
 ### Securing the Digital Future — Educate. Empower. Evolve.
 
-The **OWASP Sri Ramakrishna Engineering College (SREC) Student Chapter** is a cybersecurity community based at Sri Ramakrishna Engineering College, Coimbatore, Tamil Nadu, India.
+The **OWASP Sri Ramakrishna Engineering College (SREC) Student Chapter** is a dedicated cybersecurity community based at Sri Ramakrishna Engineering College in Coimbatore, Tamil Nadu, India. 
 
-As part of the global OWASP community, the chapter brings together students, researchers, educators and cybersecurity enthusiasts to explore application security, offensive security, defensive security, security research and emerging areas of information security.
+As an integral part of the global OWASP ecosystem, our chapter serves as a hub for students, researchers, educators, and cybersecurity enthusiasts. We are committed to advancing the fields of application security, offensive and defensive security, and cutting-edge information security research.
 
-Our focus is simple: **learn by building, understand by breaking, and improve by sharing.**
+Our philosophy is grounded in a hands-on approach: **Learn by building, understand by breaking, and improve by sharing.**
 
-<img src="assets/images/OWASP Srec Chapter.png">
+<img src="assets/images/OWASP SREC Chapter.png" style="width: 100%; border-radius: 10px; margin: 20px 0;">
 
 ## About the Chapter
 
-OWASP SREC was established to create a practical cybersecurity community where students can move beyond classroom concepts and gain exposure to real security engineering practices.
+OWASP SREC was established to bridge the gap between academic theory and industrial practice. We provide a professional environment where members can transition from classroom concepts to real-world security engineering.
 
-The chapter conducts technical workshops, hands-on sessions, seminars, Capture The Flag competitions, cybersecurity awareness initiatives and community collaborations.
+Through technical workshops, hands-on seminars, Capture The Flag (CTF) competitions, and community-driven initiatives, we explore a comprehensive spectrum of security domains, including:
 
-Our activities cover a broad range of security domains, including:
+* **Application Security**: Web and mobile app security, secure development lifecycles.
+* **Offensive Security**: Ethical hacking, vulnerability research, and penetration testing.
+* **Defensive Security**: Security operations (Blue Teaming), threat hunting, and SOC architecture.
+* **Specialized Research**: AI in cybersecurity, Cloud & Infrastructure security, and Threat Intelligence.
+* **Community Growth**: CTF challenge development and cybersecurity awareness.
 
-* Web and Application Security
-* Ethical Hacking and Offensive Security
-* Security Operations and Blue Teaming
-* Vulnerability Research
-* Capture The Flag competitions
-* Threat Intelligence
-* Cloud and Infrastructure Security
-* Secure Development
-* AI and Cybersecurity
-* Security Research
-* Cybersecurity Awareness
-
-We believe cybersecurity education should be practical, collaborative and accessible.
+We believe that the most effective cybersecurity education is practical, collaborative, and accessible to all.
 
 ## Our Mission
 
-Our mission is to build a technically capable and responsible cybersecurity community by providing students with opportunities to:
+Our mission is to cultivate a technically proficient and ethically responsible cybersecurity community. We empower our members to:
 
-* Learn modern cybersecurity concepts and methodologies
-* Work with real security tools and technologies
-* Participate in hands-on security exercises
-* Develop and solve security challenges
-* Conduct responsible security research
-* Collaborate with cybersecurity communities and professionals
-* Share knowledge through workshops, talks and community events
-* Develop the skills required for careers in cybersecurity
+* **Master Modern Methodologies**: Adopt current industry standards and security frameworks.
+* **Engage with Professional Tooling**: Gain proficiency with industry-standard security tools.
+* **Solve Complex Challenges**: Develop critical thinking through hands-on exercises and CTFs.
+* **Conduct Rigorous Research**: Practice responsible disclosure and reproducible security research.
+* **Build Professional Networks**: Collaborate with global security communities and industry experts.
 
-The chapter aims to create an environment where students can experiment, research, compete and contribute to the wider security community.
+---
 
-## What We Do
+## Core Initiatives
 
 ### Technical Workshops
+We prioritize security engineering over static theory. Our workshops focus on the operational reality of security, with recent sessions covering:
+- **Detection Engineering**: Implementing SIEM platforms and network intrusion detection.
+- **Security Operations**: Designing attack simulations and response workflows.
+- **Telemetry**: Harnessing host and network-level data for threat detection.
 
-Our workshops are designed around practical security engineering rather than theory alone.
+### Capture The Flag (CTF)
+We use CTFs to sharpen problem-solving skills across diverse categories:
+- **Exploitation**: Web, Binary, and Privilege Escalation.
+- **Analysis**: Reverse Engineering and Digital Forensics.
+- **Fundamentals**: Cryptography, OSINT, and Network Security.
 
-Recent sessions have included hands-on work involving security monitoring, SIEM platforms, network intrusion detection, attack simulation and security operations workflows.
-
-### Capture The Flag
-
-CTF competitions provide members with practical exposure to security problem-solving across areas such as:
-
-* Web exploitation
-* Cryptography
-* Digital forensics
-* Reverse engineering
-* Network security
-* OSINT
-* Binary exploitation
-* Security fundamentals
-
-The chapter also contributes challenges to external cybersecurity competitions and community events.
-
-### Security Research
-
-Members are encouraged to investigate emerging vulnerabilities, security technologies and new attack and defense techniques.
-
-The chapter promotes responsible disclosure, reproducible research and technical knowledge sharing.
-
-### Community Collaboration
-
-Cybersecurity is a collaborative discipline.
-
-OWASP SREC actively works with cybersecurity communities, student organizations and industry professionals to create opportunities for learning and collaboration beyond the college campus.
+### Security Research & Collaboration
+We foster a culture of curiosity and responsibility. Members are encouraged to investigate emerging threats and contribute to the wider community through reproducible research and open collaboration with industry professionals and other student organizations.
 
 ---
 
-# Recent Chapter Activities
+## Recent Chapter Activities
 
-## Hack the Bias: Women Rising in Cybersecurity
-
+### Hack the Bias: Women Rising in Cybersecurity
 **23 March 2026**
+A dedicated initiative to encourage greater participation of women in the field. This seminar combined technical training with leadership discussions, highlighting professional pathways for women in cybersecurity.
 
-OWASP SREC conducted a Women in Cybersecurity workshop and seminar titled:
+### Building a SOC for Your Business
+A practical, hands-on workshop on designing a Security Operations Center (SOC) for startups. Participants implemented a full detection pipeline using **Linux, Wazuh, and Suricata**, focusing on the transition from alert generation to active investigation.
 
-**“Hack the Bias: Women Rising in Cybersecurity”**
-
-The initiative was led by members of the chapter's women-in-cybersecurity community and focused on encouraging greater participation and awareness of opportunities for women in cybersecurity.
-
-The session combined technical learning, discussion and interaction with students while highlighting pathways into cybersecurity and security leadership.
-
----
-
-## Building a SOC for Your Business
-
-OWASP SREC conducted a hands-on workshop focused on building a practical Security Operations Center environment for a startup or small organization.
-
-Participants worked with:
-
-* Linux infrastructure
-* Wazuh Cloud
-* Wazuh Agent
-* Suricata
-* Host-level telemetry
-* Network-level detection
-* Attack simulation
-* Alert correlation
-
-The workshop demonstrated how host and network telemetry can be combined to build a basic detection and response workflow.
-
-Rather than simply installing security tools, the session focused on understanding how security teams investigate what happens when an attack actually occurs.
+### DCG91422 DEFCON Coimbatore CTF & Conference
+**18 April 2026 — Kumaraguru College of Technology**
+OWASP SREC played a key role in this regional flagship event, contributing to challenge development, technical design, and event coordination, further integrating our members with the Coimbatore security ecosystem.
 
 ---
 
-## DCG91422 DEFCON Coimbatore CTF & Conference
+## OWASP SREC Cyber Week 2026
 
-**18 April 2026 — Kumaraguru College of Technology, Coimbatore**
+### One Week. Six Events. One Community.
+To celebrate our **1-Year Anniversary**, OWASP SREC is hosting **Cyber Week 2026** from **12 October to 17 October 2026**, in collaboration with **DCG91422** and the **Cloud Security Alliance Tamil Nadu Chapter**.
 
-OWASP SREC contributed to the **DCG91422 DEFCON Coimbatore CTF & Conference**.
-
-The chapter supported the event through:
-
-* Capture The Flag challenge development
-* Technical challenge design
-* Event operations
-* Session emceeing
-* Community coordination
-
-The chapter developed several CTF challenges designed to encourage participants to rely on fundamental security problem-solving and technical reasoning.
-
-This collaboration strengthened the chapter's engagement with the wider Coimbatore cybersecurity community.
+| Date | Event | Format | Focus |
+| :--- | :--- | :--- | :--- |
+| **Oct 12** | The Kickoff | Offline | 1-Year Anniversary & Opening Ceremony |
+| **Oct 13** | Technical Workshop | Online | Professional-led practical security learning |
+| **Oct 14** | Cybersecurity Hackathon | Online | Open-access security problem solving |
+| **Oct 15** | Hackathon Finale | Offline | Finalists compete on-campus at SREC |
+| **Oct 16** | Student CTF | Offline | Professional-grade challenges for students |
+| **Oct 17** | Flagship Conference | Offline | Community meetup, researchers, and academics |
 
 ---
 
-# Security Awareness & Knowledge Sharing
+## Join the Community
 
-In addition to technical events, OWASP SREC regularly publishes security awareness and educational content.
+OWASP SREC is built on participation. Whether you are a beginner starting your journey or a researcher exploring advanced vulnerabilities, there is a place for you here.
 
-Topics covered by the chapter have included:
-
-* SQL Injection
-* Vulnerability management
-* Threat intelligence
-* Software vulnerabilities
-* Security patching
-* Juice Jacking
-* Data protection
-* Secure development
-* Emerging cybersecurity threats
-
-The objective is to make security knowledge accessible not only to cybersecurity students, but also to the wider technology community.
-
----
-
-# OWASP SREC Cyber Week 2026
-
-## One Week. Six Events. One Community.
-
-To mark the chapter's **1-Year Anniversary**, OWASP SREC is organizing **Cyber Week 2026** from **12 October to 17 October 2026** in collaboration with:
-
-* DCG91422 — DCG Coimbatore
-* Cloud Security Alliance Tamil Nadu Chapter
-
-The week brings together technical learning, competitive cybersecurity and community networking.
-
-### Day 1 — 12 October
-
-**The Kickoff & 1-Year Anniversary**
-
-Offline opening event marking the beginning of Cyber Week 2026.
-
-### Day 2 — 13 October
-
-**Technical Workshop**
-
-An online technical workshop featuring practical cybersecurity learning from experienced professionals.
-
-### Day 3 — 14 October
-
-**Online Cybersecurity Hackathon**
-
-An open-for-all online hackathon featuring security-focused problem statements.
-
-### Day 4 — 15 October
-
-**Hackathon Finale**
-
-Selected teams continue the competition in person at SREC.
-
-### Day 5 — 16 October
-
-**Student Capture The Flag**
-
-An offline CTF designed exclusively for students, featuring challenges created by cybersecurity professionals and security researchers.
-
-### Day 6 — 17 October
-
-**Flagship Conference & Meetup**
-
-The week concludes with a flagship cybersecurity conference and community meetup bringing together students, researchers, professionals and academics.
-
-Cyber Week represents the chapter's continued effort to create a platform where technical learning, competition and cybersecurity community building come together.
-
----
-
-# Our Community
-
-OWASP SREC is built around participation.
-
-Students can contribute as:
-
-* Security researchers
-* CTF players
-* Challenge developers
-* Workshop speakers
-* Event volunteers
-* Technical coordinators
-* Content creators
-* Security awareness advocates
-* Open-source contributors
-
-You do not need to be an expert to participate.
-
-Whether you are beginning your cybersecurity journey or already researching advanced security topics, there is a place for you in the community.
-
----
-
-# Collaboration
-
-OWASP SREC believes that strong cybersecurity communities are built through collaboration.
-
-The chapter has worked alongside organizations and communities including:
-
-* DCG91422 — DCG Coimbatore
-* Cloud Security Alliance Tamil Nadu
-* Cybersecurity student communities
-* Security researchers
-* Industry professionals
-* Academic institutions
-
-Through these collaborations, the chapter continues to connect students with the broader cybersecurity ecosystem.
-
----
-
-# Get Involved
-
-Interested in application security, ethical hacking, defensive security, CTFs, vulnerability research or cybersecurity research?
-
-Join the OWASP SREC community.
-
-Participate in our workshops, contribute to projects, attend community events, compete in CTFs, help organize activities or simply start learning with us.
+**Ways to contribute:**
+* **Research**: Investigate new attack vectors and defense mechanisms.
+* **Compete**: Join our CTF teams or develop challenges for others.
+* **Teach**: Lead a workshop or share a technical talk.
+* **Organize**: Help coordinate events and community outreach.
 
 **Learn. Build. Break. Secure. Share.**
 
-Everyone interested in improving software and cybersecurity is welcome to participate.
-
-## Participation
-
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation working to improve the security of software.
-
-All OWASP projects, tools, documents, forums and chapters are free and open to anyone interested in improving application security.
-
-Everyone is welcome and encouraged to participate in OWASP [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and the [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}.
-
-We encourage diversity and participation across all our initiatives.
-
-To learn more about OWASP, visit the [OWASP Foundation](/).
+### Global Participation
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation. All our tools, documents, and chapters are free and open. We encourage everyone to explore [OWASP Projects](/projects/), [Local Chapters](/chapters/), and the [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}.
 
 ---
 
-# Connect With Us
+## Connect With Us
 
 **OWASP Sri Ramakrishna Engineering College**
-
 Coimbatore, Tamil Nadu, India
-
 Email: **[owaspsrec@gmail.com](mailto:owaspsrec@gmail.com)**
 
 ---
